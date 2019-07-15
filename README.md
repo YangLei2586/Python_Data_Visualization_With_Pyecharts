@@ -1,5 +1,5 @@
 # Python_Visulization_With_Pyecharts
-## A powerful visualization package can create almost all kinds of charts. Below are some examples I made using Pyecharts.
+## Pyecharts is reall A powerful visualization package can create almost all kinds of charts with fewer codes and efforts, which definely makes data visulization work more efficient and more productive with funs.  Below are some examples I made using Pyecharts.
 
 ### 01 BarChart Example: take Volvo Cars sales as an example the number is made up 
 
